@@ -1,0 +1,30 @@
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe.config
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.csprojResolveAssemblyReference.cache
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.Form1.resources
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.Properties.Resources.resources
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.csproj.GenerateResource.Cache
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.pdb
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.exe
+c:\users\viviana\documents\visual studio 2013\Projects\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.pdb
+D:\respaldo c\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe.config
+D:\respaldo c\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.exe
+D:\respaldo c\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.pdb
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe.config
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.exe
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.pdb
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.pdb
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.csprojResolveAssemblyReference.cache
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.Form1.resources
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.Properties.Resources.resources
+C:\lectores biometricos\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.csproj.GenerateResource.Cache
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe.config
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.exe
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.pdb
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.Form1.resources
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.Properties.Resources.resources
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.csproj.GenerateResource.Cache
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.exe
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\bin\Debug\Monitor_marca.pdb
+D:\lectores 2\Monitor Marca Daniel\Monitor_marca\Monitor_marca\obj\Debug\Monitor_marca.csprojResolveAssemblyReference.cache
